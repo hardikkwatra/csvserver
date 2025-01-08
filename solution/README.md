@@ -1,6 +1,5 @@
 Here's the entire setup guide:
 
-```markdown
 # CSVServer Setup
 
 This document provides the steps and commands executed to set up and run the `csvserver` application using Docker.
@@ -22,7 +21,6 @@ for ((i=start; i<=end; i++))
 do
   echo "$i, $RANDOM"
 done > inputFile
-```
 
 Make the script executable and run it:
 
@@ -98,5 +96,4 @@ docker logs csvserver >& part-1-logs
 git add .
 git commit -m "Completed Part I"
 git push origin main
-```
 ```
