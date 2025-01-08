@@ -225,7 +225,11 @@ Ensure Docker and Docker Compose are installed on your machine.
      ```
 
 ### Supporting Screenshots:
+
+## Part I:
 ![Supporting Screenshot](https://github.com/hardikkwatra/csvserver/blob/44be75c66fa2a9de049d5a031e3d140252c2a7f3/solution/SupportingScreenshot1.png)
+
+## Part II & III:
 ![Supporting Screenshot](https://github.com/hardikkwatra/csvserver/blob/44be75c66fa2a9de049d5a031e3d140252c2a7f3/solution/SupportingScreenshot2.png)
 
 
